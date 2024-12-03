@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EventPlanningandManagementSystem
+</name>
+</assembly>
+<members>
+<member name="P:Event_Planning_and_Management__System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Event_Planning_and_Management__System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblAccount_userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tbleventDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblRecieptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblShedule_EventDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblAccount_userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tbleventRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblRecieptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblShedule_EventRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblAccount_userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tbleventRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblRecieptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet.tblShedule_EventRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.tblAccount_userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.tblCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.tbleventTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.tblPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.tblRecieptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.tblServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.tblShedule_EventTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Event_Planning_and_Management__System.EventdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Event_Planning_and_Management__System.EventdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Event_Planning_and_Management__System.EventdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.TableAdapterManager.UpdateAll(Event_Planning_and_Management__System.EventdbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Event_Planning_and_Management__System.EventdbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
